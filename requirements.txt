@@ -40,3 +40,4 @@ bing_image_downloader
 gpytranslate
 speedtest-cli
 py-yt-search==0.6.2
+kurigram
