@@ -38,3 +38,5 @@ git+https://github.com/KurimuzonAkuma/kurigram.git
 git+https://github.com/AsmSafone/SafoneAPI
 bing_image_downloader
 gpytranslate
+speedtest-cli
+py-yt-search==0.6.2
